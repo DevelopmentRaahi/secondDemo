@@ -247,8 +247,10 @@ footer ul>p {
     background-color: rgba(238, 238, 238, 0.516);
 }
 
-.Boxcolor {
+.boxstyle {
+    width: 32%;
     background-color: #c6aaaa3e;
+    margin: 5px;
 }
 
 .smallBox img {
@@ -270,3 +272,14 @@ footer ul>p {
 .boxstyle {
     padding: 2rem;
 }
+  .hideline {
+      display: none;
+  }
+
+  .oddcolor {
+      background-color: #ffe6ca5a;
+  }
+
+  .evencolor {
+      background-color: #dedede80;
+  }
